@@ -2,14 +2,12 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   ignoreDeadLinks: true,
-  title: "My Blog",
-  description: "A minimalist blog",
+  title: "Carelessly", // 网页标签页上显示的名字
+  description: "Thoughts, Reflections, and reading.",
   themeConfig: {
-    siteTitle: "Carelessly",
-    nav: [
-      { text: 'Home', link: '/' }
-    ],
-    sidebar: false,
-    outline: false // 这一行负责关掉 On this page
+    siteTitle: false, // 彻底隐藏页面左上角的标题
+    nav: [],          // 彻底清空右上角的菜单按钮
+    sidebar: false,   // 隐藏侧边栏
+    outline: false    // 隐藏右侧的 On this page 目录
   }
 })
