@@ -8,7 +8,7 @@ Thoughts/Reflections/Reading.
 
 <br>
 
-**2026年**
+**2026**
 
 09/08 [test](/test) 
 
