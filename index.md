@@ -1,4 +1,10 @@
+---
+navbar: false
+sidebar: false
+---
+
 # Carelessly
+
 Thoughts, Reflections, and reading.
 
 ## 2026年
