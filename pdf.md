@@ -1,3 +1,3 @@
 # PDF Test
 
-![](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/ValueInvestingMadeEasy-BenjaminGrahamsclassic investmentstrategyexplainedforeveryonebyJanetLowe.pdf)
+[](https://pub-0509df5f3cfd4af996378bce549dbf15.r2.dev/ValueInvestingMadeEasy-BenjaminGrahamsclassic%20investmentstrategyexplainedforeveryonebyJanetLowe.pdf)
