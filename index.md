@@ -1,5 +1,5 @@
-# 欢迎来到我的博客
-这里记录我的一些思考与日常。
+# Carelessly 
+Thoughts,Reflections,and reading. 
 
 ---
 
