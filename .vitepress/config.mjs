@@ -5,7 +5,7 @@ export default defineConfig({
   title: "My Blog",
   description: "A minimalist blog",
   themeConfig: {
-    siteTitle: "My Blog",
+    siteTitle: "Carelessly",
     nav: [
       { text: 'Home', link: '/' }
     ],
