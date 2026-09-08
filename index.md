@@ -12,4 +12,4 @@ Thoughts/Reflections/Reading.
 
 09/08 [test](/test) 
 
-09月08日 &nbsp;&nbsp;&nbsp; [日记1](/dairy1)
+09/08 &nbsp;&nbsp;&nbsp; [note](/dairy1)
