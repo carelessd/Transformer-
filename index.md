@@ -10,6 +10,8 @@ Thoughts/Reflections/Reading.
 
 **2026**
 
+09/08 [pics](/pics) 
+
 09/08 [The Talented Epstein](/news) 
 
 09/08 [test](/test) 
