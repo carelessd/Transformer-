@@ -12,4 +12,4 @@ Thoughts/Reflections/Reading.
 
 09/08 [test](/test) 
 
-09/08 &nbsp;&nbsp;&nbsp; [note](/dairy1)
+09/08 [note](/dairy1)
