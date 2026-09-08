@@ -10,7 +10,7 @@ Thoughts/Reflections/Reading.
 
 **2026**
 
-09/08 [PDF](/pdf) 
+09/08 [video](/video) 
 
 09/08 [pics](/pics) 
 
