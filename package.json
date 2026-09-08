@@ -3,6 +3,7 @@
     "docs:build": "vitepress build"
   },
   "devDependencies": {
-    "vitepress": "latest"
+    "vitepress": "latest",
+    "markdown-it-mathjax3": "*"
   }
 }
