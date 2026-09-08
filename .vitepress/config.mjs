@@ -10,8 +10,6 @@ export default defineConfig({
       { text: 'Home', link: '/' }
     ],
     sidebar: false,
-    search: {
-      provider: 'local'
-    }
+    outline: false // 这一行负责关掉 On this page
   }
 })
