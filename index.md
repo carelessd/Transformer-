@@ -1,4 +1,5 @@
 ---
+layout: page
 navbar: false
 sidebar: false
 ---
@@ -7,5 +8,8 @@ sidebar: false
 
 Thoughts, Reflections, and reading.
 
-## 2026年
-* [日记1](/dairy1)
+<br>
+
+**2026年**
+
+09月08日 &nbsp;&nbsp;&nbsp; [日记1](/dairy1)
