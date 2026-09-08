@@ -5,9 +5,9 @@ export default defineConfig({
   description: "纯粹的文字空间",
   cleanUrls: true,
   themeConfig: {
-    logo: '',
     sidebar: false,
     outline: false,
+    // 开启右侧或底部的简洁导航
     nav: [
       { text: '首页', link: '/' }
     ],
