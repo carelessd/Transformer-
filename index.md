@@ -4,7 +4,7 @@ aside: false
 
 # Carelessly
 
-Thoughts, Reflections, and reading.
+Thoughts,Reflections,Reading.
 
 <br>
 
