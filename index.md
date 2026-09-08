@@ -10,6 +10,8 @@ Thoughts/Reflections/Reading.
 
 **2026**
 
+09/08 [video test](/video)
+
 09/08 [pics](/pic) 
 
 09/08 [The Talented Epstein](/news) 
