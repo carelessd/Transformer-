@@ -10,6 +10,10 @@ Thoughts/Reflections/Reading.
 
 **2026**
 
+09/08 [e1](/e1)
+
+09/08 [r1](/r1)
+
 09/08 [pdf](/pdf)
 
 09/08 [video](/video) 
