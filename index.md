@@ -10,6 +10,8 @@ Thoughts/Reflections/Reading.
 
 **2026**
 
+09/08 [19](/19)
+
 09/08 [18](/18)
 
 09/08 [pdf](/pdf)
