@@ -10,6 +10,7 @@ Thoughts/Reflections/Reading.
 
 **2026**
 
+09/08 [24](/24)
 
 09/08 [23](/23)
 
